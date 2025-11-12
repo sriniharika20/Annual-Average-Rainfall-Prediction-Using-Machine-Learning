@@ -29,3 +29,5 @@ The model is trained using a Random Forest Regressor.
 The trained model predicts rainfall based on user inputs like temperature, humidity, etc.
 
 Results are displayed interactively using Gradio.
+
+🌐 Live Demo:https://a3a30185b6e093e96b.gradio.live/
